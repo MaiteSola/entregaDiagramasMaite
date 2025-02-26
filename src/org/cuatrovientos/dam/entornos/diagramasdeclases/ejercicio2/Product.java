@@ -1,6 +1,6 @@
 package org.cuatrovientos.dam.entornos.diagramasdeclases.ejercicio2;
 
-public class Product {
+public class Product extends Invoice {
 
 	private String name;
 	private int qty;
